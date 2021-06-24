@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Milkthebread(Jesse)
+- 👋 Hi, I’m @Milkthebread real name Jesus but everyone calls me Jesse
 - 👀 I’m interested in Web development(Frontend and Backend) and Game Design
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, and java
 - 💞️ I’m looking to collaborate on nothing still learning 
 - 📫 How to reach me ... Idk yet
 
