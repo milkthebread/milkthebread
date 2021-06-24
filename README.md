@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @milkthebread(Jesse)
-- 👀 I’m interested in Computer Science 
+- 👋 Hi, I’m @Milkthebread(Jesse)
+- 👀 I’m interested in Web development(front end and backend) and Game Design
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on nothing still learning 
 - 📫 How to reach me ... Idk yet
